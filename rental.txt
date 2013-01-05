@@ -1,0 +1,9 @@
+user:090010508954
+pass:861105
+
+router: admin/861105
+new router: admin/admin
+
+gate:*0775#
+
+wireless: dlink - huanghao657
